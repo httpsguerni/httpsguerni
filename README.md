@@ -22,3 +22,11 @@ I'm Saiury, a software developer with a passion for great solutions.
 ## 📈 GitHub Stats
 
 ![Saiury's GitHub stats](https://github-readme-stats.vercel.app/api?username=httpsguerni&show_icons=true&theme=radical)
+
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/saiury/)
+- [GitHub](https://github.com/httpsguerni)
+
+Feel free to explore my repositories, and let's connect! 🌟
