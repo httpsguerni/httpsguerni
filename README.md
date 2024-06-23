@@ -1,4 +1,6 @@
-# Hi there! 🇧🇷 | 🇺🇸
+# Hi there! 
+
+PT-BR/ENG
 
 I'm Saiury, a software developer with a passion for great solutions.
 
