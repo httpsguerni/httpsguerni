@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 🇧🇷 | 🇺🇸
 
 I'm Saiury, a software developer with a passion for great solutions.
 
